@@ -1,0 +1,33 @@
+TOPIC
+        about_PSDT.Tfs
+        
+SHORT DESCRIPTION
+        PSDT.Tfs is a collection of PowerShell cmdlets, which improves developer productivity.
+
+LONG DESCRIPTION
+        The PowerShell Developer Tools for Team Foundation Server simplifies working with
+        Team Foundation Server version control.
+        
+        PSDT.Tfs is shipped with a built-in (nested) module, which is intended to encapsulate 
+        general PSDT application logic.
+         
+        The following functionality is supported:
+        
+        * Getting of latest sources
+        
+CONTRIBUTE
+
+        PSDT.Tfs is open source on GitHub:
+        
+        https://github.com/tauri-code/PSDevTools
+        
+        As you use the module and find what you believe to be are bugs,
+        please submit them to:
+        
+        https://github.com/tauri-code/PSDevTools/issues
+        
+        Better yet, fix the bug and submit a pull request.
+        
+SEE ALSO
+        Get-TfsLatest
+
