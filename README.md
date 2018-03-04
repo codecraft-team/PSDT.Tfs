@@ -1,6 +1,6 @@
 # PSDT.Tfs
 
-[![Build status](https://ci.appveyor.com/api/projects/status/ws1kls3iss2wkoa6/branch/master?svg=true&passingText=Build%20Passing&failingText=Build%20Failing&pendingText=Build%20Pending)](https://ci.appveyor.com/project/TauriCode/PSDT-Tfs)
+[![Build status](https://ci.appveyor.com/api/projects/status/xy4rd52lvicqxufk/branch/master?svg=true&passingText=Build%20Passing&failingText=Build%20Failing&pendingText=Build%20Pending)](https://ci.appveyor.com/project/codecraftteam/PSDT-Tfs)
 
 A collection of PowerShell scripts and modules, which increase .NET developers every day productivity.
 
